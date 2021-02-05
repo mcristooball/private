@@ -37,7 +37,7 @@ class Configuration
      */
     private static $_defaults = array(
         'main' => array(
-            'name'                     => 'PrivateBin',
+            'name'                     => 'Private',
             'basepath'                 => '',
             'discussion'               => true,
             'opendiscussion'           => false,
