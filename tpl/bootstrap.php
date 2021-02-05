@@ -179,7 +179,7 @@ endif;
 					<span class="icon-bar"></span>
 				</button>
 				<a class="reloadlink navbar-brand" href="">
-					<img alt="<?php echo I18n::_($NAME); ?>" src="img/DreamsEngine-07.png" width="38" />
+					<img alt="<?php echo I18n::_($NAME); ?>" src="img/DreamsEngine-04.png" width="38" />
 				</a>
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
